@@ -1,3 +1,3 @@
 # RPGMZ
 RPGツクールMZでの自作プラグイン（ほぼGPT）
-https://note.com/saysaysan/n/n96a75e430229
+https://note.com/saysaysan/n/n91d636783fd7
